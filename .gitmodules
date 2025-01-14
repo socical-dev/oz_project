@@ -1,3 +1,3 @@
-[submodule "oz_python_assignment"]
-	path = oz_python_assignment
-	url = https://github.com/socical-dev/oz_python_assignment.git
+[submodule "oz_python"]
+	path = oz_python
+	url = https://github.com/socical-dev/oz_python.git
