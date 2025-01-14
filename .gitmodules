@@ -1,3 +1,6 @@
 [submodule "oz_python"]
 	path = oz_python
 	url = https://github.com/socical-dev/oz_python.git
+[submodule "oz_database"]
+	path = oz_database
+	url = https://github.com/socical-dev/oz_database.git
