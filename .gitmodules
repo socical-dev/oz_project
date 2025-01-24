@@ -4,3 +4,6 @@
 [submodule "oz_database"]
 	path = oz_database
 	url = https://github.com/socical-dev/oz_database.git
+[submodule "oz_linux"]
+	path = oz_linux
+	url = https://github.com/socical-dev/oz_linux.git
