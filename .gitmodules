@@ -7,6 +7,6 @@
 [submodule "oz_linux"]
 	path = oz_linux
 	url = https://github.com/socical-dev/oz_linux.git
-[submodule "oz_html_css"]
-	path = oz_html_css
-	url = https://github.com/socical-dev/oz_html_css.git
+[submodule "oz_html_css_js"]
+	path = oz_html_css_js
+	url = https://github.com/socical-dev/oz_html_css_js.git
