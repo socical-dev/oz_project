@@ -10,3 +10,6 @@
 [submodule "oz_html_css_js"]
 	path = oz_html_css_js
 	url = https://github.com/socical-dev/oz_html_css_js.git
+[submodule "oz_flask"]
+	path = oz_flask
+	url = https://github.com/socical-dev/oz_flask.git
