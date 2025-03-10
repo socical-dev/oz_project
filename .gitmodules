@@ -13,3 +13,6 @@
 [submodule "oz_flask"]
 	path = oz_flask
 	url = https://github.com/socical-dev/oz_flask.git
+[submodule "oz_django_assignment"]
+	path = oz_django_assignment
+	url = https://github.com/socical-dev/oz_django_assignment.git

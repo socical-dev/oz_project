@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oz_database" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oz_flask" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oz_html_css_js" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oz_linux" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oz_python" vcs="Git" />
+  </component>
+</project>
