@@ -16,3 +16,6 @@
 [submodule "oz_django_assignment"]
 	path = oz_django_assignment
 	url = https://github.com/socical-dev/oz_django_assignment.git
+[submodule "Django-Assginment"]
+	path = Django-Assginment
+	url = https://github.com/socical-dev/Django-Assginment.git
