@@ -2,8 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Django-Assignment" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/oz_database" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/oz_django_assignment" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/oz_flask" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/oz_html_css_js" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/oz_linux" vcs="Git" />
